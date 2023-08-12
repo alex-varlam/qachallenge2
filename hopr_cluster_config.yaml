@@ -1,0 +1,23 @@
+---
+api_token: '%th1s-IS-a-S3CR3T-ap1-PUSHING-b1ts-TO-you%'
+nodes_list:
+  node1:
+    api_port: 13301
+    p2p_port: 19091
+    healtcheck_port: 18081
+  node2:
+    api_port: 13302
+    p2p_port: 19092
+    healtcheck_port: 18082
+  node3:
+    api_port: 13303
+    p2p_port: 19093
+    healtcheck_port: 18083
+  node4:
+    api_port: 13304
+    p2p_port: 19094
+    healtcheck_port: 18084
+  node5:
+    api_port: 13305
+    p2p_port: 19095
+    healtcheck_port: 18085
